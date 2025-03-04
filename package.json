@@ -1,6 +1,6 @@
 {
   "name": "react-deepseek-chatbot",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": false,
   "dependencies": {
     "react": "^18.0.0",
